@@ -1,0 +1,30 @@
+{
+  "name": "lbuilder",
+  "version": "0.0.1",
+  "description": "This is a Laravel bareBone dapendases genaretor",
+  "main": "src/index.js",
+  "bin": {
+    "LBuilder": "bin/LBuilder",
+    "create-LBuilder": "bin/LBuilder"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "musfiqurrahamanistiak",
+    "email": "m.r.istiak2007@gmail.com",
+    "url": "https://www.npmjs.com/~musfiqurrahamanistiak"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.0",
+    "listr": "^0.14.2",
+    "pkg-install": "^1.0.0",
+    "scripy": "^0.3.0"
+  }
+}
