@@ -10,9 +10,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "musfiqurrahamanistiak",
     "email": "m.r.istiak2007@gmail.com",
